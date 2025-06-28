@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente completo del sistema SIGE, desarrollado en Java con Swing para la gestión integral de la vida escolar de los estudiantes.
 
-## 📌 Descripción
+## Descripción
 
 SIGE permite registrar, consultar y centralizar información clave de cada estudiante: asistencias, calificaciones, reuniones institucionales, observaciones pedagógicas, retiros, entre otros.
 
@@ -28,9 +28,6 @@ Cada actor institucional (docente, preceptor, asesor, directivo) accede al siste
 - Visualización segmentada por perfil de usuario
 - Selección de rol para usuarios multiperfil
 
-## Pruebas
-
-Se aplicaron técnicas de prueba de caja negra, valores límite y clases de equivalencia. Todos los casos de uso críticos fueron validados en entorno real.
 
 
 ---
