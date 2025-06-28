@@ -16,9 +16,6 @@ Cada actor institucional (docente, preceptor, asesor, directivo) accede al siste
 - **Persistencia**: MySQL mediante JDBC
 - **POO aplicada**: clases abstractas, herencia, polimorfismo, encapsulamiento
 
-##  Estructura del repositorio
-
-
 ## Funcionalidades principales
 
 - Registro de asistencia y calificaciones por materia y curso
@@ -27,7 +24,3 @@ Cada actor institucional (docente, preceptor, asesor, directivo) accede al siste
 - Bitácora cronológica con trazabilidad completa
 - Visualización segmentada por perfil de usuario
 - Selección de rol para usuarios multiperfil
-
-
-
----
